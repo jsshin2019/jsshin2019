@@ -1,17 +1,16 @@
 ### Data Enthusiast 👋
+- Data Scientist in Gaming Industry
 
 
-
-#### Current Interest
+### Current Interest
 
 - Community Detection 
 - Graph Neural networks (GNN)
 - Dynamic Pricing
 
 
-#### Contact Info
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinsoo-shin-436060162)](https://www.linkedin.com/in/jinsoo-shin-436060162)
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsshin2013@gmail.com)](mailto:jsshin2013@gmail.com)
+### Contact Info
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jinsoo-shin-436060162)](https://www.linkedin.com/in/jinsoo-shin-436060162)[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsshin2013@gmail.com)](mailto:jsshin2013@gmail.com)
 	  
   
   
