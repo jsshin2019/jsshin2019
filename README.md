@@ -6,9 +6,9 @@
 
 ### Current Interest
 
-- Community Detection 
+- Network Science (Community Detection, SubGraph Mining) 
 - Graph Neural networks (GNN)
-- Dynamic Pricing
+- Sequence Analysis 
 
 
 ### Contact Info
