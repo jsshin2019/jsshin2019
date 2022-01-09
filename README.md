@@ -9,6 +9,7 @@
 - Network Science (Community Detection, SubGraph Mining) 
 - Graph Neural networks (GNN)
 - Sequence Analysis 
+- Game Bot Detection 
 
 
 ### Contact Info
