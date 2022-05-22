@@ -1,15 +1,14 @@
 
 
 ### Data Enthusiast 👋
-- Data Scientist in Gaming Industry
+- Data Scientist
 
 
 ### Current Interest
 
-- Network Science (Community Detection, SubGraph Mining) 
-- Graph Neural networks (GNN)
-- Sequence Analysis 
-- Game Bot Detection 
+- Causal Inference 
+- Survival Analysis 
+- Graph Neural Networks & Network Science
 
 
 ### Contact Info
