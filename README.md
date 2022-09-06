@@ -1,7 +1,7 @@
 
 
 ### Data Enthusiast 👋
-- Data Analyst
+- Data Analyst in Gaming Industry
 
 
 ### Current Interest
