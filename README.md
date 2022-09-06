@@ -1,7 +1,7 @@
 
 
 ### Data Enthusiast 👋
-- Data Scientist
+- Data Analyst
 
 
 ### Current Interest
